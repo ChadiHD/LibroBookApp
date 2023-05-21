@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309610549536",
+    "project_id": "authentication-api-a96b2",
+    "storage_bucket": "authentication-api-a96b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309610549536:android:a11f7124d23f636b6f0745",
+        "android_client_info": {
+          "package_name": "com.example.librobookstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309610549536-4m5743s6naep8hmpf1d41201uv40g0ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRJ922YLiObXT2vaA6a7GjAPWEsLyZI5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309610549536-4m5743s6naep8hmpf1d41201uv40g0ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

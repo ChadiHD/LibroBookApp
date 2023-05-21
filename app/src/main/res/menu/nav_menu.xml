@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_login"
+            android:title="Login"
+            android:icon="@drawable/log_in_regular_24" />
+
+        <item android:id="@+id/book_list"
+            android:title="Book List"
+            android:icon="@drawable/book_solid_24" />
+
+        <item android:id="@+id/book_manager"
+            android:title="Book Manager"
+            android:icon="@drawable/edit_solid_24" />
+
+        <item android:id="@+id/nav_logout"
+            android:title="Logout"
+            android:icon="@drawable/log_out_regular_24" />
+    </group>
+
+</menu>
